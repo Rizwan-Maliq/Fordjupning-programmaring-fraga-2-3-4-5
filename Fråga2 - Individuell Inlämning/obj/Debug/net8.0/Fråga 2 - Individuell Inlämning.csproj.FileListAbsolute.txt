@@ -1,0 +1,14 @@
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\bin\Debug\net8.0\Fråga 2 - Individuell Inlämning.exe
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\bin\Debug\net8.0\Fråga 2 - Individuell Inlämning.deps.json
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\bin\Debug\net8.0\Fråga 2 - Individuell Inlämning.runtimeconfig.json
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\bin\Debug\net8.0\Fråga 2 - Individuell Inlämning.dll
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\bin\Debug\net8.0\Fråga 2 - Individuell Inlämning.pdb
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.AssemblyInfoInputs.cache
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.AssemblyInfo.cs
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.csproj.CoreCompileInputs.cache
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.dll
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\refint\Fråga 2 - Individuell Inlämning.dll
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.pdb
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\Fråga 2 - Individuell Inlämning.genruntimeconfig.cache
+D:\Webbutvecklare utbildning\Fördjupning programming\Individuell inlämning\Fråga 2 - Individuell Inlämning\Fråga 2 - Individuell Inlämning\obj\Debug\net8.0\ref\Fråga 2 - Individuell Inlämning.dll
